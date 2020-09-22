@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LabSensor</string>
+    <string name="sens_val">0</string>
+</resources>
